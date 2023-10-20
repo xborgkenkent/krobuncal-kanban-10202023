@@ -1,0 +1,13 @@
+@import './base.css';
+
+:root {
+  font-family: 'Hiragino sans, Arial, sans-serif';
+  --white: #FFFFFF;
+  --violet: #6260C6;
+  --navy: #2C2C37;
+  --jaguar: #23232E;
+  --gray: #5D6270;
+  --green: #68E0B0;
+  --sky: #4AC1E3;
+  --red: #B71C1C;
+}
